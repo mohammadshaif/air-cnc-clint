@@ -1,0 +1,75 @@
+$shadow: 0px 3px 10px 5px #ecececc2;
+
+.location-part{
+    box-shadow:$shadow ;
+    padding: 13px 27px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.location-part span{
+    color: rgba(128, 128, 128, 0.589);
+    font-size: 12px;
+    font-weight: 500;
+
+}
+.location input,input:focus{
+    color: #000;
+    border: none !important;
+    outline:none !important;
+    width: 100%;
+}
+.guest-count button {
+    border: none !important;
+    background-color: #ffff !important;
+    padding: 0 !important;
+    font-size: 40px !important;
+    margin-top: -25px !important;
+}
+.guest-count button:focus{
+    border: none !important;
+    outline:none !important;
+}
+.guest-count strong{
+    font-size: 16px;
+    font-weight: bold;
+}
+.guest-count .apply{
+    justify-content: flex-end;
+}
+.guest-count .apply button{
+    font-size: 16px !important;
+    font-weight: 600;
+    color: #2ADE8C;
+    padding: 5px 18px !important;
+    border: 2px solid !important;
+    border-radius: 10px;
+}
+.search{
+    background-image: linear-gradient(to bottom right, #28DF8C, #7BEE4E);
+    padding: 13px 23px !important;
+    border-radius: 15px 15px 15px 15px;
+    padding-bottom: 10px;
+    color: #ffffff !important;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.starImg{
+    width: 37%;
+    margin-top: -39px;
+}
+.details h5{
+    font-size: 10px;
+}
+.details h1{
+    font-size: 14px;
+}
+.details p{
+    font-size: 13px;
+    margin-top: -11px;
+    color: gray;
+}
+.details span{
+    margin-top: -39px;
+}
