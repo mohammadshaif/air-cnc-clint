@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "Build": "^0.0.1-dev",
     "bootstrap": "^4.5.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
     "react-dates": "^21.8.0",
